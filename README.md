@@ -1,4 +1,3 @@
-
 # Project Title
 
 Tech Challenge
@@ -39,7 +38,6 @@ To https://github.com/Siva-Venkatesh/CTS_Tech_Challenge.git
 
 ```
 
-
 ## Requirement
 
 ```bash
@@ -48,6 +46,14 @@ To https://github.com/Siva-Venkatesh/CTS_Tech_Challenge.git
   2. Application Under Test : https://todomvc.com/examples/react/dist/
 
   3. Acceptance Criteria (AC): User is required to design acceptance criteria appropriate for the given user story and its scope.
+
+  4. The following accepatance criteria have been added based on the above requirement
+     - Added ToDo list and validate
+     - Toggle Todo list
+     - Deleted few todo from the list and verified the left items counts
+     - Toggle ToDo from the All link text and matched the counts
+     - Cleared completed ToDo list
+     - Filtered from the ToDo list 
 ```
 ## Installation
 
@@ -79,12 +85,8 @@ mvn test -Dtest=<test_case>
 
 ```
 
-
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![CTS_tech_challenge_report](https://github.com/user-attachments/assets/de3d0595-59b5-4abd-90c0-1a9367595f7d)
 
 CTS_tech_challenge_report
-
-
-

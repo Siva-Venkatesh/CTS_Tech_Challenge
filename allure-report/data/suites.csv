@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4634","AC6_FilterTodos","Default Suite","Wed Dec 04 11:49:01 GMT+08:00 2024","passed","Wed Dec 04 11:49:05 GMT+08:00 2024","ToDoTest","testProject","ToDoTest","AC6_FilterTodos"
+"","4230","AC2_ToggleTodo","Default Suite","Wed Dec 04 11:48:45 GMT+08:00 2024","passed","Wed Dec 04 11:48:49 GMT+08:00 2024","ToDoTest","testProject","ToDoTest","AC2_ToggleTodo"
+"","4235","AC3_DeleteTodo","Default Suite","Wed Dec 04 11:48:49 GMT+08:00 2024","passed","Wed Dec 04 11:48:54 GMT+08:00 2024","ToDoTest","testProject","ToDoTest","AC3_DeleteTodo"
+"","4376","AC4_ToggleAllTodos","Default Suite","Wed Dec 04 11:48:54 GMT+08:00 2024","passed","Wed Dec 04 11:48:58 GMT+08:00 2024","ToDoTest","testProject","ToDoTest","AC4_ToggleAllTodos"
+"","2664","AC5_ClearCompletedTodos","Default Suite","Wed Dec 04 11:48:58 GMT+08:00 2024","passed","Wed Dec 04 11:49:01 GMT+08:00 2024","ToDoTest","testProject","ToDoTest","AC5_ClearCompletedTodos"
+"","2310","AC1_AddTodo","Default Suite","Wed Dec 04 11:48:43 GMT+08:00 2024","passed","Wed Dec 04 11:48:45 GMT+08:00 2024","ToDoTest","testProject","ToDoTest","AC1_AddTodo"
